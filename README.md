@@ -1,3 +1,5 @@
+Dataset link: https://drive.google.com/drive/u/0/folders/1FDzumkoyXToBHYt1gRKDJ1Hh5M3P_zWW(dataset is too large too be uploaded , hence a portion of it is given here).
+
 # Medical Image Classification Project
 
 ## Overview
